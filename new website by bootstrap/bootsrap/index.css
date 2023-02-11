@@ -1,0 +1,154 @@
+
+ .section-navbar form {
+  position: relative;
+        }
+  .section-navbar .magnifier{
+     position: absolute;
+     top: 10px;
+     right: 40px;
+     }
+     
+                
+     .section-navbar nav{
+     flex: 1;
+                
+     }
+     .logo-s1 h1{
+        font-family: cursive;
+        font-weight: bold;
+     }
+     .form-page  input{
+        width: 250px !important;
+        height: 50px !important;
+        border-radius: 50px !important;
+     }
+
+.line::before{
+    content: "";
+    width: 120px;
+    height: 5px;
+    background-color: rgb(44, 179, 233);
+    display: block;
+}
+.Expect-Great h1{
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.Expect-Great .button{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    width: 170px;
+    height: 55px;
+    border-radius: 40px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(255, 68, 0, 0.445);
+}
+ .button{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    width: 170px;
+    height: 55px;
+    border-radius: 40px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(255, 68, 0, 0.445);
+}
+.multi-box{
+    width: 850px;
+    padding-left: 200px;
+}
+.bussiness-sec .para1{
+    font-size: 18px;
+
+}
+a{
+    text-decoration: none;
+
+}
+.Team-help h3 .link-hover{
+    transform: 1s all ease;
+    color:black;
+    }
+.Team-help h3 .link-hover:hover{
+color:orangered;
+}
+.Team-help .para2{
+font-size: 18px;
+
+  }
+  .Valuable-Reputation h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800px;
+  }
+.Valuable-Reputation .website h4 a{
+    transform: 1s all ease;
+    color:black;
+
+}
+.Valuable-Reputation .website h4 a:hover{
+color:rgb(26, 174, 233);
+
+}
+ .paragraph{
+    font-size: 18px;
+    
+}
+.Better-website {
+    background-color: rgb(240,246,255);
+}
+
+.Better-website .button1{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    height: 55px;
+    border-radius: 40px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(255, 68, 0, 0.445);
+}
+
+.Blog-Posts .card-border{
+    border: none !important;
+}
+.card-border h4:hover{
+    color: orangered;
+
+}
+
+
+
+/* ================= */
+.picture  img{
+    height: 550px;
+}
+/* .libro-class{
+    border:2px black solid;
+} */
+.lorem-para{
+    line-height: 27px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.client-picture img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+.social-icon{
+    border-radius: 50%;
+    padding: 12px;
+    transition: 1s all ease;
+}
+.social{
+  gap: 50px;
+  font-size: 25px;
+  padding-left: 380px;
+}
+.social-icon:hover{
+    background-color:rgb(30,152,228);
+    color:white;
+}  
